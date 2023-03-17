@@ -1,8 +1,8 @@
 function Frase () {
     return (
-        <did>
+        <div>
             <p>Este é um componente com um frase</p>
-        </did>
+        </div>
     )
 }
 
