@@ -8,7 +8,7 @@ import './App.css';
 import Home from "./pages/Home";
 import Empresa from "./pages/Empresa";
 import Contato from "./pages/Contato";
-import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 
